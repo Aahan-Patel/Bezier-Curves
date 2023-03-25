@@ -1,2 +1,2 @@
 # Bezier-Curves
-Script to create bezier curves in python. 
+Script to connect bezier curves writting in Python
